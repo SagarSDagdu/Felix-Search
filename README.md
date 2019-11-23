@@ -15,6 +15,7 @@ This app is a demo app which demonstrates the base algorithm of Felix search. An
 
 ## Screenshots from the app
 
-<img src="Screenshots/search_4.png" width="277" height="600" /><img src="Screenshots/search_1.png" width="277" height="600" /> <img src="Screenshots/search_2.png" width="277" height="600" />
-<img src="Screenshots/search_3.png" width="277" height="600" />
+<img src="Screenshots/search_4.png" width="277" height="600" /><img src="Screenshots/search_1.png" width="277" height="600" />
+<img src="Screenshots/search_3.png" width="277" height="600" /><img src="Screenshots/search_5.png" width="277" height="600" />
+
 
