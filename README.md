@@ -18,4 +18,10 @@ This app is a demo app which demonstrates the base algorithm of Felix search. An
 <img src="Screenshots/search_4.png" width="277" height="600" /><img src="Screenshots/search_1.png" width="277" height="600" />
 <img src="Screenshots/search_3.png" width="277" height="600" /><img src="Screenshots/search_5.png" width="277" height="600" />
 
+## License
 
+Usage is provided under the [MIT License](http://opensource.org/licenses/mit-license.php).  See LICENSE for the full details.
+
+## Contributions
+
+All contributions are welcome. Please fork the project to add functionalities and submit a pull request to merge them in next releases.
