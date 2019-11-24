@@ -70,6 +70,7 @@
 		AC77898B2388ED4C00AFDA7C /* FelixSearchDemo */ = {
 			isa = PBXGroup;
 			children = (
+				AC7789AA2389683800AFDA7C /* Core */,
 				AC7789A22389549E00AFDA7C /* UI */,
 				AC77898C2388ED4C00AFDA7C /* AppDelegate.swift */,
 				AC77898E2388ED4C00AFDA7C /* SceneDelegate.swift */,
@@ -84,7 +85,6 @@
 		AC7789A22389549E00AFDA7C /* UI */ = {
 			isa = PBXGroup;
 			children = (
-				AC7789AA2389683800AFDA7C /* Core */,
 				AC7789A92389662700AFDA7C /* Storyboard */,
 				AC7789A82389661500AFDA7C /* View controllers */,
 				AC7789A72389660900AFDA7C /* Cells */,
@@ -125,7 +125,8 @@
 				AC7789AD23896B1500AFDA7C /* ContactsManager.swift */,
 				ACCA691A2389824400CD1D4F /* Enums.swift */,
 			);
-			path = Core;
+			name = Core;
+			path = UI/Core;
 			sourceTree = "<group>";
 		};
 		ACCA691C238985DB00CD1D4F /* Models */ = {
